@@ -129,14 +129,3 @@ VITE_BACKEND_URL=http://localhost:5000
 * Frontend → Vercel
 * Backend → Render
 * Database → MongoDB Atlas
-
----
-
-# Future Improvements
-
-* AI training plans
-* Problem recommendations
-* Heatmaps & streaks
-* Friend comparison
-* Contest prediction system
-
