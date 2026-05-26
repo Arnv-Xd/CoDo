@@ -140,9 +140,3 @@ VITE_BACKEND_URL=http://localhost:5000
 * Friend comparison
 * Contest prediction system
 
----
-
-# Author
-
-Arnav Dixit
-IIITDM Jabalpur
